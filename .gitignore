@@ -1,0 +1,4 @@
+secrets.sh
+/venv
+.DS_Store
+*.pyc
